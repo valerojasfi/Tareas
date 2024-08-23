@@ -4,7 +4,7 @@
 
 Desde hace un tiempo ha crecido la preocupación global por los impactos de la industria de la moda. Según cifras del Ministerio del Medio Ambiente, en los últimos 20 años Chile se ha convertido en el país de América Latina que consume más ropa por persona, lo que de manera invisible afecta el medio ambiente.
 
-![IMAGEN](./fast-fashion.jpeg)
+![IMAGEN](./fast-fashion.jpeg)  
 
 Pros: 
 
@@ -24,7 +24,7 @@ Contras:
 
 Se expone que Chile es uno de los países de América Latina donde los libros tienen un costo significativamente alto, lo que establece una barrera para el fomento del hábito de la lectura y el acceso al conocimiento.
 
-![IMAGEN](./U-de-Chile-libros-e1713827074286.webp)
+![IMAGEN](./U-de-Chile-libros-e1713827074286.webp) 
 
 Pros: 
 
@@ -46,7 +46,7 @@ Contras:
 
 Para el plebiscito de septiembre del 2022 volvió a entrar en vigencia la obligatoriedad del voto en Chile, aunque esta vez, conjugándose ineditamente con un mecanismo de inscripción automática. Como resultado, sufragó 86% de la población en edad de votar, un nivel de participación sólo observado en las primeras elecciones desde la vuelta a la democracia.
 
-![IMAGEN](./IKD3O756BFCTDBIY47UDCMOGGU-e1618614161401.jpg)
+![IMAGEN]( IKD3O756BFCTDBIY47UDCMOGGU-e1618614161401.jpg) 
 
 Pros: 
 
@@ -71,7 +71,7 @@ Contras:
 
 ## Matriz impacto x esfuerzo
 
-![IMAGEN](./Matriz%20de%20esfuerzo%20e%20impacto%20(1).jpg)
+![IMAGEN](./Matriz%20de%20esfuerzo%20e%20impacto%20(1).jpg) 
 
 ### Conclusiones del Miro
 
