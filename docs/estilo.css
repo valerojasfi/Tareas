@@ -1,3 +1,70 @@
-body{
-background-color: aquamarine;
+/* General */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Header */
+.hero {
+    background-image: url('images/mi-foto.jpg'); /* Ruta ajustada según la ubicación */
+    background-size: cover; /* La imagen cubre todo el contenedor */
+    background-position: center; /* Centra la imagen */
+    height: 300px; /* Altura del encabezado */
+    display: flex; /* Permite centrar el contenido */
+    justify-content: center; /* Centra el contenido horizontalmente */
+    align-items: center; /* Centra el contenido verticalmente */
+    color: white; /* Color del texto */
+    text-align: center; /* Centra el texto */
+    font-family: Arial, sans-serif; /* Fuente del texto */
+}
+
+.hero-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.hero-content p a {
+    color: hsl(0, 0%, 0%);
+    text-decoration: none;
+}
+
+/* Containers */
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background: rgb(246, 125, 250);
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Section titles */
+h2 {
+    border-bottom: 2px solid hsl(271, 100%, 60%);
+    padding-bottom: 5px;
+    color: #444;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background: #222;
+    color: #ffffff;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+/* Links */
+a {
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+}
+
+a:hover {
+    color: hwb(175 4% 5%);
 }
